@@ -1,1 +1,2 @@
-# test
+# twilio-messenger
+Welcome to the Twilio SMS Manager! This project allows you to easily send SMS messages and track their status using the Twilio API. With just a few simple steps, you can send a message to any phone number and know that it's been delivered safely. And if you need to check the status of a message you've sent, you can do so with just a few clicks. Whether you're an individual or an organization, this tool can help you keep track of your messages and stay connected with your audience. So why wait? Start using the Twilio SMS Manager today and experience the power of SMS messaging!
